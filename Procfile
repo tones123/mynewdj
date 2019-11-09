@@ -1,0 +1,1 @@
+﻿web: gunicorn --pythonpath mynewdj.wsgi --log-file -
