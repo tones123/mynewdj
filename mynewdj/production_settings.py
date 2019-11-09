@@ -1,4 +1,4 @@
-# Import all default settings.
+﻿# Import all default settings.
 from .settings import *
 
 import dj_database_url
